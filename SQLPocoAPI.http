@@ -1,0 +1,6 @@
+@SQLPocoAPI_HostAddress = http://localhost:5223
+
+GET {{SQLPocoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
